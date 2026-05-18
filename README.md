@@ -7,10 +7,10 @@ README 파일은 저장소에 대한 설명을 적는 곳입니다.
 
 ### 오늘 배운 내용
 
-git init
-git add
-git status
-git commit
+- git init
+- git add
+- git status
+- git commit
 
 
 
